@@ -1,27 +1,37 @@
 /*this is contain code for in-general-all styles*/
 
-#background {
+#backdrop {
     color: black;
+    height: 100px;
+    width: 100px;
 }
 
 #holiday_name_plate {
     color: gold;
+    height: 25px;
+    width: 90px;
 }
 
 #holiday_name {
     color: black;
+    height: 15px;
 }
 
 #holiday_tagline {
     color: black;
+    height: 9px;
 }
 
 #main_decor_plate {
     border: solid 2px cyan;
+    height: 200px;
+    width: 100px;
 }
 
 .main_decor {
     border: solid 2px yellow;
+    height: 50px;
+    width: 50px;
 }
 
 #md1 {
@@ -46,8 +56,12 @@
 
 #aux_decor_plate {
     border: solid 2px maroon;
+    height: 75px;
+    width: 80px;
 }
 
 #ad1 {
     color: purple;
+    height: 30px;
+    width: 30px;
 }
