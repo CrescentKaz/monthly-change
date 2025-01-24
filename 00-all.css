@@ -1,1 +1,53 @@
 /*this is contain code for in-general-all styles*/
+
+#background {
+    color: black;
+}
+
+#holiday_name_plate {
+    color: gold;
+}
+
+#holiday_name {
+    color: black;
+}
+
+#holiday_tagline {
+    color: black;
+}
+
+#main_decor_plate {
+    border: solid 2px cyan;
+}
+
+.main_decor {
+    border: solid 2px yellow;
+}
+
+#md1 {
+    color: violet;
+}
+
+#md2 {
+    color: aquamarine;
+}
+
+#md3 {
+    color: chartreuse;
+}
+
+#md4 {
+    color: deepskyblue;
+}
+
+#md5 {
+    color: hotpink;
+}
+
+#aux_decor_plate {
+    border: solid 2px maroon;
+}
+
+#ad1 {
+    color: purple;
+}
