@@ -1,23 +1,26 @@
 /*this is contain code for in-general-all styles*/
 
 #backdrop {
-    color: black;
+    background-color: black;
     height: 100px;
     width: 100px;
 }
 
 #holiday_name_plate {
+    border: 2px solid black;
     color: gold;
     height: 25px;
     width: 90px;
 }
 
 #holiday_name {
+    border: 2px solid black;
     color: black;
     height: 15px;
 }
 
 #holiday_tagline {
+    border: 2px solid black;
     color: black;
     height: 9px;
 }
@@ -35,23 +38,23 @@
 }
 
 #md1 {
-    color: violet;
+    background-color: violet;
 }
 
 #md2 {
-    color: aquamarine;
+    background-color: aquamarine;
 }
 
 #md3 {
-    color: chartreuse;
+    background-color: chartreuse;
 }
 
 #md4 {
-    color: deepskyblue;
+    background-color: deepskyblue;
 }
 
 #md5 {
-    color: hotpink;
+    background-color: hotpink;
 }
 
 #aux_decor_plate {
@@ -61,6 +64,7 @@
 }
 
 #ad1 {
+    border: 2px solid black;
     color: purple;
     height: 30px;
     width: 30px;
